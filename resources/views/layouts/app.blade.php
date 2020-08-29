@@ -23,7 +23,7 @@
     <div id="app">
         
         <div class="bg-red-800">
-            <p>hello </p>
+            <p>hello  world</p>
         </div>
 
         <main class="py-4 bg-gray-600">
